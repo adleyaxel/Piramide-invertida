@@ -1,0 +1,15 @@
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\Piramide-invertida.csproj.AssemblyReference.cache
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\Piramide-invertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\Piramide-invertida.AssemblyInfoInputs.cache
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\Piramide-invertida.AssemblyInfo.cs
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\Piramide-invertida.csproj.CoreCompileInputs.cache
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\bin\Debug\net6.0\Piramide-invertida.exe
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\bin\Debug\net6.0\Piramide-invertida.deps.json
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\bin\Debug\net6.0\Piramide-invertida.runtimeconfig.json
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\bin\Debug\net6.0\Piramide-invertida.dll
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\bin\Debug\net6.0\Piramide-invertida.pdb
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\Piramide-invertida.dll
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\refint\Piramide-invertida.dll
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\Piramide-invertida.pdb
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\Piramide-invertida.genruntimeconfig.cache
+C:\Users\adley\U.creativa-programacion\Piramide-invertida\obj\Debug\net6.0\ref\Piramide-invertida.dll
